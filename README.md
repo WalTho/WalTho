@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WalTho</h1>
 <h3 align="center">I'm a passionate Frontend/Backend/UI-UX developer from France</h3>
 
-- 🔭 I’m currently working on **a website project centered around Star Citizen for my portfolio (among other things).**
+- 🔭 I’m currently working on **a website project centered around Star Citizen for my portfolio, & twitch widgets for streamers (among other things).**
 
 [![WalTho's GitHub | Stats](https://stats.quine.sh/WalTho/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=WalTho)
 
